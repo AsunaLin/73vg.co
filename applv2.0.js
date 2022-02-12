@@ -13,7 +13,7 @@ function init() {
 			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/010203le/73vg.co/titlev2.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://discord.gg/jfYqMXAySN" target="_blank">DISCORD</a></li>
+					<li class="menu_li"><a href="https://discord.gg/DPvK6rWWqv" target="_blank">DISCORD</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
